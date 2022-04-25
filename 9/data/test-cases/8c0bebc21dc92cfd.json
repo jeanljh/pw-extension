@@ -1,0 +1,182 @@
+{
+  "uid" : "8c0bebc21dc92cfd",
+  "name" : "Test",
+  "fullName" : "Test",
+  "historyId" : " tests/test.spec.ts Test Suite Test",
+  "time" : {
+    "start" : 1650887986228,
+    "stop" : 1650887997992,
+    "duration" : 11764
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1650887986229,
+        "stop" : 1650887986232,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "page.goto(chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#initialize/create-password/import-with-seed-phrase)",
+      "time" : {
+        "start" : 1650887987327,
+        "stop" : 1650887997919,
+        "duration" : 10592
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "browserContext.newPage",
+      "time" : {
+        "start" : 1650887997921,
+        "stop" : 1650887997974,
+        "duration" : 53
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "page.bringToFront",
+      "time" : {
+        "start" : 1650887997975,
+        "stop" : 1650887997983,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "page.close",
+      "time" : {
+        "start" : 1650887997985,
+        "stop" : 1650887997992,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1650887997992,
+        "stop" : 1650887997993,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "suite",
+    "value" : "tests/test.spec.ts"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "83aa9ed8854c16f1",
+        "reportUrl" : "https://jeanljh.github.io/pw-extension/8//#testresult/83aa9ed8854c16f1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650887628285,
+          "stop" : 1650887639852,
+          "duration" : 11567
+        }
+      }, {
+        "uid" : "e5ff2597be8378b1",
+        "reportUrl" : "https://jeanljh.github.io/pw-extension/7//#testresult/e5ff2597be8378b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650887491084,
+          "stop" : 1650887500875,
+          "duration" : 9791
+        }
+      }, {
+        "uid" : "4117ef16fe89d269",
+        "reportUrl" : "https://jeanljh.github.io/pw-extension/6//#testresult/4117ef16fe89d269",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650887127401,
+          "stop" : 1650887137533,
+          "duration" : 10132
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "8c0bebc21dc92cfd.json",
+  "parameterValues" : [ ]
+}
