@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Apr 25 11:45:27 GMT 2022","Mon Apr 25 11:45:37 GMT 2022","10132","","tests/test.spec.ts","Test Suite","","","Test",""

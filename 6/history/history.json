@@ -1,0 +1,22 @@
+{
+  " tests/test.spec.ts Test Suite Test" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4117ef16fe89d269",
+      "reportUrl" : "https://jeanljh.github.io/pw-extension/6//#testresult/4117ef16fe89d269",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650887127401,
+        "stop" : 1650887137533,
+        "duration" : 10132
+      }
+    } ]
+  }
+}

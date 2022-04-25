@@ -1,0 +1,9 @@
+[ {
+  "buildOrder" : 6,
+  "reportUrl" : "https://jeanljh.github.io/pw-extension/6/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 1,
+    "retry" : 0
+  }
+} ]
