@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://jeanljh.github.io/pw-extension",
+  "buildOrder" : 8,
+  "buildName" : "GitHub Actions Run #2219946018",
+  "buildUrl" : "https://github.com/jeanljh/pw-extension/actions/runs/2219946018",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://jeanljh.github.io/pw-extension/8/"
+} ]

@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "tests/test.spec.ts",
+    "children" : [ {
+      "name" : "Test Suite",
+      "children" : [ {
+        "name" : "Test",
+        "uid" : "83aa9ed8854c16f1",
+        "parentUid" : "fb130f910bb7e8bf8d3a1460acff5c84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650887628285,
+          "stop" : 1650887639852,
+          "duration" : 11567
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fb130f910bb7e8bf8d3a1460acff5c84"
+    } ],
+    "uid" : "df1bc777e11147c9e01904ca3a0e6f5f"
+  } ],
+  "name" : "suites"
+}
